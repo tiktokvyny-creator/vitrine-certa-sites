@@ -9,3 +9,26 @@
 @media(max-width:1000px){.barber-styles{grid-template-columns:1fr 1fr}.legal-layout{gap:30px}.business-grid{gap:16px}.choice-card{padding:25px}}@media(max-width:700px){.clinic-options,.legal-layout,.menu-list,.property-finder,.property-highlights,.fashion-grid,.business-grid,.deliverables{grid-template-columns:1fr}.property-finder{padding:25px;gap:20px}.legal-note{padding:30px}.legal-note h3{font-size:30px}.protection-panel{padding:26px}.protection-panel h3{font-size:27px}.barber-styles{gap:20px}.barber-styles h3{font-size:20px}.barber-banner{padding:28px}.barber-banner h3{font-size:26px}.niche-tabs{gap:7px}.niche-tabs button{padding:11px 14px;font-size:13px}.ritual-list summary{font-size:23px;gap:12px}.ritual-list summary>span{min-width:25px}.ritual-list p{padding-left:0}.ritual-list .text-choice{margin-left:0}.care-quote{border-radius:90px 90px 12px 12px}.care-quote h3{font-size:30px}.deliverables{padding:28px}.property-highlights{gap:15px}.fashion-card{padding:24px 0}.fashion-card h3{margin-top:14px}.menu-list h3{font-size:25px}.soft .niche-explore{border-radius:35px 35px 0 0}}
 
 .purchase-scope{padding:65px 6%;background:#f3f5f7;color:#172536}.purchase-scope h2{font-size:clamp(26px,4vw,40px);margin:15px 0 25px}.purchase-scope .scope-label{font-size:12px;letter-spacing:2px}.scope-columns{display:grid;grid-template-columns:repeat(3,1fr);gap:30px;margin-bottom:25px}.purchase-scope p{line-height:1.8}.purchase-scope a:not(.button){text-decoration:underline}@media(max-width:750px){.scope-columns{grid-template-columns:1fr;gap:12px}}
+
+/* Legibilidade do modelo, preservando sua identidade visual. */
+
+body{line-height:1.6}.brand small{font-size:12px;letter-spacing:1.2px}
+.demo-bar{font-size:13px;line-height:1.6;letter-spacing:.3px;flex-wrap:wrap}
+nav,.button,.service a,label{font-size:15px}
+.kicker,.ribbon span,.service-number,.purchase-scope .scope-label{font-size:13px;letter-spacing:1.5px}
+.intro{color:var(--ink)}
+.hero-note,.section-head>p,.service p,.about .kicker,.about-copy>p,.principles span,.process p,details p,.contact p,footer p,.process span{opacity:1}
+.hero-note,.contact .note,.status,.back-top,footer p,.niche-help{font-size:14px;line-height:1.8}
+.section-head>p,.service p,.process p,details p,.result p{font-size:16px;line-height:1.8}
+.principles span,.deliverables li{font-size:15px;line-height:1.8}
+.image-caption{font-size:12px;background:#101820e8;padding:8px 12px;border-radius:4px;width:fit-content;max-width:calc(100% - 50px)}
+input::placeholder,textarea::placeholder{color:var(--ink);opacity:1}
+input:focus-visible,textarea:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
+.poster .hero .intro{color:#fff}.wide .hero .intro{color:#fff}
+.poster .kicker,.poster .ribbon span,.poster .service-number,.poster .niche-help{color:#d2a66f}
+.poster .about .kicker{color:#19191b}
+.poster .purchase-scope .button{color:#17181b}
+.editorial .button:hover{filter:none;background:#e7ded2}
+@media(max-width:700px){.demo-bar{font-size:12px}.demo-bar span{max-width:none}.brand small{font-size:11px}.hero-note,.contact .note,footer p{font-size:14px}.kicker{font-size:12px}.ribbon>div{font-size:14px}.section-head>p,.service p,.process p,details p{font-size:16px}}
+
+.choice-card p,.barber-styles p,.menu-list p,.property-highlights p{opacity:1;font-size:16px;line-height:1.8}

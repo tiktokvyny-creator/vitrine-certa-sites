@@ -6,3 +6,25 @@
 .secondary-copy{margin-left:10px;background:#eaf0f6;color:#233d56;box-shadow:none}.secondary-copy:hover{background:#dae4ef}@media(max-width:700px){.secondary-copy{margin-left:0;margin-top:12px;width:100%}#whatsapp-brief{width:100%}}
 
 .card{display:flex;flex-direction:column}.card-body{flex:1;display:flex;flex-direction:column}.card-body>p{flex:1}.card-bottom{margin-top:auto}
+
+/* Legibilidade: contraste e tamanhos consistentes em todas as telas. */
+:root{--muted:#4e6074}
+body{line-height:1.6}
+.button,.button:hover{color:#071627}.button:hover{background:#ff8a53}
+.brand small{font-size:11px;letter-spacing:1.6px}.brand-mark{color:#071627}
+.card-meta,.card-price small,.catalog-note{color:#526275}
+.card-meta,.card-price small,.model-label,.preview-photo .model-label{font-size:13px}
+.card p,.card-body p{font-size:16px;line-height:1.75}
+.demo-button,.choose-button,.filters button,.device-controls button,.search input{font-size:15px}
+.filters button span{font-size:13px;opacity:1}
+.catalog-note,.form-note,.demo-bottom p,footer p,footer small{font-size:14px;line-height:1.7}
+h2 span{color:#526275}.step-grid article>span{color:#a7461d}
+.hero-tags,.hero-price>span,.hero-price small,.text-link{font-size:14px}
+.hero-caption span{font-size:12px;color:#d6e3f2;background:#071627;padding:5px 8px;border-radius:4px}
+.benefit-strip span,.benefit-strip strong{font-size:14px}
+.photo-caption span{font-size:12px}.photo-caption{background:#071627e8;padding:12px 14px;border-radius:8px;bottom:14px}
+.section-heading p:not(.eyebrow),.features p,.step-grid p,.faq details p{font-size:16px;line-height:1.8}
+.eyebrow,.dialog-top .eyebrow{font-size:13px;letter-spacing:1.4px}
+input::placeholder,textarea::placeholder{color:#526275;opacity:1}
+input:focus-visible,textarea:focus-visible,select:focus-visible{outline:3px solid #168dec;outline-offset:3px}
+@media(max-width:700px){header .button,.hero-actions .button{font-size:14px}.text-link,.hero-tags{font-size:14px}.benefit-strip span,.benefit-strip strong{font-size:13px}.filters button{font-size:14px}.eyebrow{font-size:12px}.hero-content{padding-bottom:310px}.hero{min-height:850px}}
