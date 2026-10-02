@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.vitrinecertaa.com.br/sitemap.xml
