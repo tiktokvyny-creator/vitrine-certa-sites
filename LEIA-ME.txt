@@ -1,9 +1,0 @@
-VITRINE CERTA — SITE INTEGRADO
-Abra index.html para ver a página principal.
-As nove demonstrações estão na pasta modelos, cada uma com imagem e arquivos locais.
-Pesquisa, filtros, links para demonstrações e seleção de modelo estão implementados.
-O pedido é preparado no dispositivo e pode ser copiado. Não é enviado automaticamente.
-Sem pagamento, agenda conectada, banco de dados ou telefone real configurado.
-As marcas e imagens são demonstrativas. Troque pelas informações reais antes de vender.
-Este pacote contém a nova versão visual e não os arquivos administrativos ou dados do site anterior.
-Para Vercel como site estático: publique o conteúdo desta pasta, sem comando de build. Não substitua arquivos existentes sem revisar o projeto atual.
