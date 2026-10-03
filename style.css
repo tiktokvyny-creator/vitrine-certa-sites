@@ -118,3 +118,10 @@ input:focus-visible,textarea:focus-visible,select:focus-visible{outline:3px soli
 .sales-home .vc-consent-actions{display:grid;grid-template-columns:1fr 1fr;gap:8px;flex-wrap:nowrap}.sales-home .vc-consent button{padding:10px 8px;font-size:13px;min-height:44px}.sales-home .vc-cookie-settings{min-height:44px}
 }
 @media(max-width:420px){.sales-home .header-cta-long{display:none}.sales-home .header-cta-short{display:inline}.sales-home header{gap:10px}.sales-home header>.button{min-height:44px;padding:10px 12px;font-size:13px}.sales-home header .brand{font-size:22px}.sales-home header .brand small{font-size:9px;letter-spacing:1px}.sales-home header .brand-mark{width:32px;height:36px}.sales-home .brand{gap:8px}}
+
+/* Acabamento: leitura à esquerda e ações secundárias em contorno. */
+@media(min-width:1001px){.sales-home .hero-content{width:52%;padding-right:24px}.sales-home .hero h1{max-width:520px;font-size:clamp(38px,3.4vw,50px)}.sales-home .hero .lead{max-width:460px}}
+.sales-home .card .demo-button,.sales-home .steps .button{border:1px solid #ff6b2b;background:#fff;color:#071627;box-shadow:none}
+.sales-home .card .demo-button:hover,.sales-home .steps .button:hover{border-color:#ff6b2b;background:#fff1e9;color:#071627}
+.sales-home #proposal-dialog .button:not(.secondary-copy){background:#102033;color:#fff;box-shadow:none}
+.sales-home #proposal-dialog .button:not(.secondary-copy):hover{background:#233d56}
