@@ -35,8 +35,9 @@
     {
       "model": "fotografia",
       "asset": "scene-3.webp",
-      "source": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1400&q=80",
-      "bytes": 33330
+      "source": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=max&w=1000&q=85",
+      "bytes": 28698,
+      "note": "Proporção original preservada; sem recorte horizontal prévio."
     },
     {
       "model": "confeitaria",
