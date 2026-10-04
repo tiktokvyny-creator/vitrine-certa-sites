@@ -1,0 +1,168 @@
+{
+  "license": "https://unsplash.com/license",
+  "note": "Stock references. No pictured person, venue or installation is presented as a client or endorsement. Architecture hero/scene order updated.",
+  "images": [
+    {
+      "model": "arquitetura",
+      "asset": "scene-3.webp",
+      "source": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 41386
+    },
+    {
+      "model": "arquitetura",
+      "asset": "scene-2.webp",
+      "source": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 97176
+    },
+    {
+      "model": "arquitetura",
+      "asset": "hero.webp",
+      "source": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 88776
+    },
+    {
+      "model": "fotografia",
+      "asset": "hero.webp",
+      "source": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 29260
+    },
+    {
+      "model": "fotografia",
+      "asset": "scene-2.webp",
+      "source": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 46190
+    },
+    {
+      "model": "fotografia",
+      "asset": "scene-3.webp",
+      "source": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 33330
+    },
+    {
+      "model": "confeitaria",
+      "asset": "hero.webp",
+      "source": "https://images.unsplash.com/photo-1464305795204-6f5bbfc7fb81?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 69876
+    },
+    {
+      "model": "confeitaria",
+      "asset": "scene-2.webp",
+      "source": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 42272
+    },
+    {
+      "model": "confeitaria",
+      "asset": "scene-3.webp",
+      "source": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 90470
+    },
+    {
+      "model": "petshop",
+      "asset": "hero.webp",
+      "source": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 37124
+    },
+    {
+      "model": "petshop",
+      "asset": "scene-2.webp",
+      "source": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 26276
+    },
+    {
+      "model": "petshop",
+      "asset": "scene-3.webp",
+      "source": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 41080
+    },
+    {
+      "model": "academia",
+      "asset": "hero.webp",
+      "source": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 74340
+    },
+    {
+      "model": "academia",
+      "asset": "scene-2.webp",
+      "source": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 150680
+    },
+    {
+      "model": "academia",
+      "asset": "scene-3.webp",
+      "source": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 45574
+    },
+    {
+      "model": "pousada",
+      "asset": "hero.webp",
+      "source": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 145668
+    },
+    {
+      "model": "pousada",
+      "asset": "scene-2.webp",
+      "source": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 79712
+    },
+    {
+      "model": "pousada",
+      "asset": "scene-3.webp",
+      "source": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 131448
+    },
+    {
+      "model": "automotivo",
+      "asset": "hero.webp",
+      "source": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 62260
+    },
+    {
+      "model": "automotivo",
+      "asset": "scene-2.webp",
+      "source": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 24584
+    },
+    {
+      "model": "automotivo",
+      "asset": "scene-3.webp",
+      "source": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 38770
+    },
+    {
+      "model": "energia-solar",
+      "asset": "hero.webp",
+      "source": "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 100898
+    },
+    {
+      "model": "energia-solar",
+      "asset": "scene-2.webp",
+      "source": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 289128
+    },
+    {
+      "model": "energia-solar",
+      "asset": "scene-3.webp",
+      "source": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 34022
+    },
+    {
+      "model": "eventos",
+      "asset": "hero.webp",
+      "source": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 67144
+    },
+    {
+      "model": "eventos",
+      "asset": "scene-2.webp",
+      "source": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 62626
+    },
+    {
+      "model": "eventos",
+      "asset": "scene-3.webp",
+      "source": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=1400&q=80",
+      "bytes": 86390
+    }
+  ]
+}

@@ -1,0 +1,935 @@
+[
+  {
+    "id": "arquitetura",
+    "name": "Site para Arquitetura e Interiores",
+    "category": "Serviços",
+    "tag": "ARQUITETURA EDITORIAL",
+    "theme": "architecture",
+    "brand": "seu estúdio",
+    "label": "ARQUITETURA & INTERIORES",
+    "title": "Espaços que<br>fazem <em>sentido.</em>",
+    "intro": "Forma, luz e matéria em equilíbrio. Um novo olhar para o espaço que acompanha a sua vida.",
+    "action": "Explore os ambientes",
+    "desc": "Portfólio filtrável e briefing de projeto.",
+    "accent": "#674e38",
+    "bg": "#f4f1eb",
+    "ink": "#292d27",
+    "gallery": "Um olhar para cada espaço.",
+    "gcopy": "Ambientes de referência para explorar volumes, materiais e luz. As imagens não representam projetos executados.",
+    "labels": [
+      "Interiores",
+      "Residencial",
+      "Processo"
+    ],
+    "alts": [
+      "Sala contemporânea com madeira e luz natural",
+      "Sala clara com poltronas e plantas",
+      "Profissional desenhando uma planta arquitetônica"
+    ],
+    "services": [
+      [
+        "Arquitetura residencial",
+        "Organize o projeto em torno da rotina, do terreno e das necessidades de quem vai viver nele."
+      ],
+      [
+        "Interiores",
+        "Materiais, iluminação e layout apresentados como partes de uma mesma composição."
+      ],
+      [
+        "Espaços comerciais",
+        "Uma experiência alinhada à identidade do negócio e à circulação das pessoas."
+      ]
+    ],
+    "interactive": "Desenhe o começo do seu projeto.",
+    "helper": "Selecione o ambiente para adaptar seu briefing. Não é um orçamento automático.",
+    "choices": [
+      [
+        "Residência",
+        "Conte como você vive, o que deseja mudar e quais ambientes fazem parte do projeto."
+      ],
+      [
+        "Interiores",
+        "Compartilhe os ambientes, referências de materiais e necessidades da sua rotina."
+      ],
+      [
+        "Comercial",
+        "Descreva a atividade, a circulação e a experiência que quer oferecer aos clientes."
+      ]
+    ],
+    "fields": [
+      [
+        "Ambiente ou imóvel",
+        "text",
+        "Ex.: apartamento, casa ou loja"
+      ],
+      [
+        "Área aproximada (opcional)",
+        "text",
+        "Ex.: 80 m²"
+      ]
+    ],
+    "about": "O projeto começa na escuta.",
+    "aboutcopy": "Um bom espaço nasce da relação entre pessoas e lugares. Este modelo valoriza a apresentação do método, o portfólio e o cuidado com cada decisão, sem depender de números ou promessas.",
+    "process": [
+      [
+        "Conversa inicial",
+        "Necessidades, referências e contexto do espaço."
+      ],
+      [
+        "Direção do projeto",
+        "Conceito, materiais e prioridades organizados."
+      ],
+      [
+        "Próximas etapas",
+        "Escopo e acompanhamento alinhados na proposta."
+      ]
+    ],
+    "faqs": [
+      [
+        "As imagens são projetos reais do estúdio?",
+        "Não. São referências ilustrativas para demonstrar o portfólio do site."
+      ],
+      [
+        "Posso apresentar projetos com mais detalhes?",
+        "O layout permite organizar imagens e textos. O material e o escopo são definidos na personalização."
+      ],
+      [
+        "O briefing calcula o valor de uma obra?",
+        "Não. Ele organiza as informações para uma conversa sobre o projeto."
+      ]
+    ],
+    "price": 1500,
+    "tier": "Avançados"
+  },
+  {
+    "id": "fotografia",
+    "name": "Site para Fotografia",
+    "category": "Serviços",
+    "tag": "PORTFÓLIO CINEMATOGRÁFICO",
+    "theme": "photography",
+    "brand": "seu olhar",
+    "label": "FOTOGRAFIA & HISTÓRIAS",
+    "title": "O instante passa.<br><em>A imagem fica.</em>",
+    "intro": "Histórias contadas com luz, presença e um olhar atento ao que torna cada momento único.",
+    "action": "Veja as histórias",
+    "desc": "Galeria em tela cheia e briefing de ensaio.",
+    "accent": "#e9bb7c",
+    "bg": "#171716",
+    "ink": "#f4f0e8",
+    "gallery": "Histórias em enquadramentos.",
+    "gcopy": "Uma seleção visual de referência. Nenhuma imagem é apresentada como trabalho de um cliente real.",
+    "labels": [
+      "Celebrações",
+      "Bastidores",
+      "Retratos"
+    ],
+    "alts": [
+      "Pessoa segurando um buquê em luz de fim de tarde",
+      "Câmera fotográfica vista de perto",
+      "Retrato editorial em fundo escuro"
+    ],
+    "services": [
+      [
+        "Retratos",
+        "Uma apresentação para ensaios individuais, profissionais e pessoais."
+      ],
+      [
+        "Celebrações",
+        "Espaço para mostrar a narrativa visual de momentos importantes."
+      ],
+      [
+        "Editorial",
+        "Projetos de imagem que aproximam conceito, linguagem e identidade."
+      ]
+    ],
+    "interactive": "Que história você quer contar?",
+    "helper": "Escolha o tipo de ensaio e prepare uma conversa. Datas e valores são confirmados pelo profissional.",
+    "choices": [
+      [
+        "Retrato",
+        "Conte sobre a finalidade das fotos e o clima que você imagina para o ensaio."
+      ],
+      [
+        "Celebração",
+        "Informe o tipo de ocasião, a data desejada e o local do evento."
+      ],
+      [
+        "Editorial",
+        "Apresente o conceito, onde as imagens serão usadas e as referências visuais."
+      ]
+    ],
+    "fields": [
+      [
+        "Data desejada (opcional)",
+        "date",
+        ""
+      ],
+      [
+        "Local ou cidade",
+        "text",
+        "Onde você imagina as fotos?"
+      ]
+    ],
+    "about": "Presença antes de pose.",
+    "aboutcopy": "Este portfólio foi pensado para deixar as imagens conduzir a experiência. A apresentação do fotógrafo, sua linguagem e o processo criativo ganham espaço sem competir com as histórias.",
+    "process": [
+      [
+        "Sua ideia",
+        "Referências e intenção do ensaio."
+      ],
+      [
+        "Planejamento",
+        "Local, luz e necessidades da produção."
+      ],
+      [
+        "Encontro",
+        "Detalhes e disponibilidade combinados diretamente."
+      ]
+    ],
+    "faqs": [
+      [
+        "Consigo escolher uma data por aqui?",
+        "Você pode informar uma preferência. O site não confirma disponibilidade nem faz reservas."
+      ],
+      [
+        "As fotografias pertencem a este portfólio?",
+        "São imagens ilustrativas. Na versão personalizada, entram as fotografias autorizadas do profissional."
+      ],
+      [
+        "Existe entrega de fotos por área do cliente?",
+        "Não neste modelo. Área privada e entrega de arquivos exigem avaliação separada."
+      ]
+    ],
+    "price": 1500,
+    "tier": "Avançados"
+  },
+  {
+    "id": "confeitaria",
+    "name": "Site para Confeitaria",
+    "category": "Gastronomia",
+    "tag": "DOCE & ARTESANAL",
+    "theme": "bakery",
+    "brand": "sua confeitaria",
+    "label": "DOCES & OCASIÕES",
+    "title": "Um pouco de doce.<br><em>Muito de afeto.</em>",
+    "intro": "Sabores, texturas e detalhes para transformar a sua próxima ocasião em uma lembrança especial.",
+    "action": "Conheça as criações",
+    "desc": "Vitrine de doces e montagem de encomenda.",
+    "accent": "#9c3f54",
+    "bg": "#fff7f0",
+    "ink": "#4b2832",
+    "gallery": "Uma vitrine de pequenos encantos.",
+    "gcopy": "Inspirações para o catálogo. Sabores, tamanhos e disponibilidade devem ser substituídos pelos produtos reais.",
+    "labels": [
+      "Tortas",
+      "Sobremesas",
+      "Bolos"
+    ],
+    "alts": [
+      "Tortas de frutas vermelhas sobre uma mesa clara",
+      "Sobremesa com morangos em taça",
+      "Bolo de chocolate com decoração artesanal"
+    ],
+    "services": [
+      [
+        "Bolos de celebração",
+        "Uma apresentação para os sabores, tamanhos e acabamentos disponíveis."
+      ],
+      [
+        "Doces para compartilhar",
+        "Coleções organizadas para encontros, presentes e mesas de festa."
+      ],
+      [
+        "Encomendas especiais",
+        "Um caminho simples para reunir referências e consultar possibilidades."
+      ]
+    ],
+    "interactive": "Comece a sua encomenda.",
+    "helper": "Monte uma referência de pedido. Não há cobrança, confirmação de produção ou preço automático.",
+    "choices": [
+      [
+        "Bolo",
+        "Descreva o sabor desejado, o estilo da decoração e suas referências."
+      ],
+      [
+        "Doces",
+        "Informe os doces de interesse e como pretende servir ou presentear."
+      ],
+      [
+        "Mesa de festa",
+        "Conte o tema, a ocasião e as referências para a composição."
+      ]
+    ],
+    "fields": [
+      [
+        "Ocasião",
+        "text",
+        "Ex.: aniversário ou presente"
+      ],
+      [
+        "Data desejada (opcional)",
+        "date",
+        ""
+      ],
+      [
+        "Quantidade ou pessoas (opcional)",
+        "text",
+        "Uma estimativa para começar"
+      ]
+    ],
+    "about": "Detalhes que dão sabor à memória.",
+    "aboutcopy": "Este modelo combina uma vitrine delicada com uma jornada prática de encomenda. O cliente encontra as criações, explora os detalhes e organiza seu pedido antes de conversar com a equipe.",
+    "process": [
+      [
+        "Inspiração",
+        "Escolha a ocasião e reúna suas referências."
+      ],
+      [
+        "Consulta",
+        "Sabores, quantidades e data são avaliados."
+      ],
+      [
+        "Combinação",
+        "Preço e entrega alinhados antes da confirmação."
+      ]
+    ],
+    "faqs": [
+      [
+        "A encomenda é confirmada pelo site?",
+        "Não. O formulário prepara uma solicitação. A equipe confirma disponibilidade, preço e retirada ou entrega."
+      ],
+      [
+        "Existem opções para restrições alimentares?",
+        "Ingredientes, alergênicos e possibilidades precisam ser confirmados diretamente com a confeitaria."
+      ],
+      [
+        "Os produtos das fotos estão disponíveis?",
+        "As fotografias são ilustrativas e serão substituídas pelo catálogo real na personalização."
+      ]
+    ],
+    "price": 1500,
+    "tier": "Avançados"
+  },
+  {
+    "id": "petshop",
+    "name": "Site para Pet Shop e Banho e Tosa",
+    "category": "Serviços",
+    "tag": "DIVERTIDO & ACOLHEDOR",
+    "theme": "pet",
+    "brand": "seu espaço pet",
+    "label": "CARINHO EM CADA CUIDADO",
+    "title": "Eles fazem a festa.<br><em>A gente cuida.</em>",
+    "intro": "Um espaço de cuidado para quem deixa a sua vida mais divertida. Descubra os serviços e prepare a próxima visita.",
+    "action": "Explore os cuidados",
+    "desc": "Serviços por perfil e ficha do pet.",
+    "accent": "#126653",
+    "bg": "#fff8e9",
+    "ink": "#173d32",
+    "gallery": "Uma rotina cheia de companhia.",
+    "gcopy": "Fotografias ilustrativas de pets. O site pode receber imagens autorizadas do espaço e dos serviços.",
+    "labels": [
+      "Cães",
+      "Gatos",
+      "Companhia"
+    ],
+    "alts": [
+      "Cão border collie em ambiente externo",
+      "Gato preto e branco em fundo verde",
+      "Dois cães brincando em área aberta"
+    ],
+    "services": [
+      [
+        "Banho e higiene",
+        "Apresente o cuidado com a pelagem e a rotina de higiene oferecidos pelo espaço."
+      ],
+      [
+        "Tosa e acabamento",
+        "Organize os tipos de serviço e as informações úteis para a visita."
+      ],
+      [
+        "Produtos e acessórios",
+        "Uma vitrine para os itens disponíveis, com consulta direta à equipe."
+      ]
+    ],
+    "interactive": "Cada pet tem o seu jeitinho.",
+    "helper": "Crie uma ficha de interesse. Serviços e horários são confirmados pela equipe; este modelo não oferece atendimento veterinário.",
+    "choices": [
+      [
+        "Cão",
+        "Conte sobre o porte, a pelagem e os cuidados que deseja consultar."
+      ],
+      [
+        "Gato",
+        "Compartilhe a rotina do gato e confirme com a equipe quais serviços estão disponíveis."
+      ],
+      [
+        "Mais de um pet",
+        "Informe quantos animais deseja atender e os cuidados de cada um."
+      ]
+    ],
+    "fields": [
+      [
+        "Nome do pet",
+        "text",
+        "Como seu companheiro se chama?"
+      ],
+      [
+        "Porte e cuidados especiais",
+        "text",
+        "Conte o que a equipe precisa saber"
+      ]
+    ],
+    "about": "O cuidado também está na conversa.",
+    "aboutcopy": "Um visual acolhedor e informações fáceis de encontrar ajudam os tutores a preparar a visita. A estrutura destaca serviços, necessidades do pet e o contato com a equipe.",
+    "process": [
+      [
+        "Conheça os cuidados",
+        "Explore os serviços apresentados."
+      ],
+      [
+        "Conte sobre seu pet",
+        "Perfil, rotina e necessidades reunidos."
+      ],
+      [
+        "Combine a visita",
+        "Serviço e disponibilidade confirmados pela equipe."
+      ]
+    ],
+    "faqs": [
+      [
+        "O site agenda o serviço automaticamente?",
+        "Não. A ficha prepara a consulta para a equipe combinar o atendimento."
+      ],
+      [
+        "Há serviços veterinários neste exemplo?",
+        "Não. O conteúdo deste modelo demonstra um pet shop e serviços de higiene."
+      ],
+      [
+        "Posso incluir o catálogo de produtos?",
+        "Sim, como vitrine estática com consulta. Estoque conectado e pagamento online exigem escopo adicional."
+      ]
+    ],
+    "price": 1500,
+    "tier": "Avançados"
+  },
+  {
+    "id": "academia",
+    "name": "Site para Academia e Treinamento",
+    "category": "Saúde e beleza",
+    "tag": "ENERGIA & MOVIMENTO",
+    "theme": "fitness",
+    "brand": "seu movimento",
+    "label": "TREINO QUE CABE NA SUA ROTINA",
+    "title": "SEU RITMO.<br><em>SEU MOVIMENTO.</em>",
+    "intro": "Encontre uma forma de se movimentar que faça parte da sua vida. Explore as modalidades e converse sobre o seu objetivo.",
+    "action": "Encontre sua modalidade",
+    "desc": "Modalidades interativas e perfil de treino.",
+    "accent": "#ccf46c",
+    "bg": "#171c18",
+    "ink": "#f5f8f0",
+    "gallery": "O espaço também inspira.",
+    "gcopy": "Ambientes e modalidades de referência. As imagens não representam uma unidade real ou resultados de alunos.",
+    "labels": [
+      "Musculação",
+      "Força",
+      "Mobilidade"
+    ],
+    "alts": [
+      "Sala de academia com equipamentos e pesos",
+      "Pessoa treinando com barra e anilhas",
+      "Grupo realizando exercício de mobilidade"
+    ],
+    "services": [
+      [
+        "Musculação",
+        "Um espaço para apresentar a estrutura e as possibilidades de acompanhamento."
+      ],
+      [
+        "Treinamento funcional",
+        "Movimento e atividades em grupo apresentados com linguagem direta."
+      ],
+      [
+        "Mobilidade",
+        "Modalidades e orientações de prática detalhadas pela equipe responsável."
+      ]
+    ],
+    "interactive": "O próximo passo tem o seu ritmo.",
+    "helper": "Selecione uma modalidade e organize seu interesse. Não substitui avaliação ou orientação de um profissional.",
+    "choices": [
+      [
+        "Musculação",
+        "Conte sua experiência com treino e o que você quer conhecer sobre a estrutura."
+      ],
+      [
+        "Funcional",
+        "Compartilhe sua preferência por atividades em grupo e os períodos de interesse."
+      ],
+      [
+        "Mobilidade",
+        "Descreva o que procura na prática e as informações que deseja confirmar com a equipe."
+      ]
+    ],
+    "fields": [
+      [
+        "Objetivo de interesse",
+        "text",
+        "O que você procura na sua rotina?"
+      ],
+      [
+        "Período preferido",
+        "text",
+        "Ex.: manhã, tarde ou noite"
+      ]
+    ],
+    "about": "Consistência começa com um bom encontro.",
+    "aboutcopy": "Um modelo com energia visual e navegação direta. As modalidades, a estrutura e a conversa inicial ficam claras, sem prometer resultados ou apresentar transformações fictícias.",
+    "process": [
+      [
+        "Explore",
+        "Conheça as modalidades da unidade."
+      ],
+      [
+        "Converse",
+        "Conte sua rotina e tire suas dúvidas."
+      ],
+      [
+        "Planeje",
+        "Condições e orientação alinhadas pela equipe."
+      ]
+    ],
+    "faqs": [
+      [
+        "Posso contratar um plano online?",
+        "Este exemplo não cobra nem registra matrículas. Planos e condições são confirmados com a equipe."
+      ],
+      [
+        "O site prescreve treinos?",
+        "Não. O formulário organiza uma conversa e não oferece orientação individual de exercícios."
+      ],
+      [
+        "As modalidades e horários são definitivos?",
+        "São referências de conteúdo. A versão personalizada apresenta a grade real da academia."
+      ]
+    ],
+    "price": 1500,
+    "tier": "Avançados"
+  },
+  {
+    "id": "pousada",
+    "name": "Site para Pousada e Hospedagem",
+    "category": "Turismo e hospedagem",
+    "tag": "IMERSIVO & NATURAL",
+    "theme": "hospitality",
+    "brand": "sua pousada",
+    "label": "UMA PAUSA PARA VIVER O LUGAR",
+    "title": "O tempo desacelera.<br><em>Você chega.</em>",
+    "intro": "Uma nova paisagem, uma conversa sem pressa e espaço para respirar. Imagine os detalhes da sua próxima estadia.",
+    "action": "Explore a estadia",
+    "desc": "Tour visual e consulta de datas.",
+    "accent": "#bfe1c5",
+    "bg": "#f3f2e9",
+    "ink": "#223e31",
+    "gallery": "Entre paisagens e descanso.",
+    "gcopy": "Referências de ambiente e hospedagem. Não representam acomodações disponíveis ou uma localização real.",
+    "labels": [
+      "Ambiente",
+      "Acomodação",
+      "Paisagem"
+    ],
+    "alts": [
+      "Piscina e construção de hospedagem em ambiente natural",
+      "Quarto acolhedor com iluminação quente",
+      "Paisagem de lago e montanhas"
+    ],
+    "services": [
+      [
+        "Acomodações",
+        "Apresente as categorias reais, os ambientes e os itens de cada acomodação."
+      ],
+      [
+        "O lugar",
+        "Um espaço para mostrar a paisagem, os acessos e o contexto da experiência."
+      ],
+      [
+        "Durante a estadia",
+        "Organize as informações de visita e os serviços disponíveis aos hóspedes."
+      ]
+    ],
+    "interactive": "Comece a imaginar sua estadia.",
+    "helper": "Informe suas preferências para consultar a equipe. Não é um motor de reservas e não confirma disponibilidade.",
+    "choices": [
+      [
+        "Descanso",
+        "Conte o que gostaria de aproveitar e quais detalhes fazem diferença para sua estadia."
+      ],
+      [
+        "Viagem em casal",
+        "Compartilhe suas preferências de acomodação e o período desejado."
+      ],
+      [
+        "Família ou grupo",
+        "Informe a composição do grupo e as necessidades de acomodação."
+      ]
+    ],
+    "fields": [
+      [
+        "Chegada desejada",
+        "date",
+        ""
+      ],
+      [
+        "Saída desejada",
+        "date",
+        ""
+      ],
+      [
+        "Número de hóspedes",
+        "number",
+        "Ex.: 2"
+      ]
+    ],
+    "about": "O lugar faz parte da viagem.",
+    "aboutcopy": "Uma apresentação imersiva que deixa a paisagem abrir a conversa. O modelo organiza acomodações, detalhes de visita e consulta de datas com navegação leve e imagens em destaque.",
+    "process": [
+      [
+        "Escolha o período",
+        "Informe as datas que tem em mente."
+      ],
+      [
+        "Consulte a equipe",
+        "Disponibilidade e condições são confirmadas."
+      ],
+      [
+        "Combine a estadia",
+        "A reserva acontece diretamente com a hospedagem."
+      ]
+    ],
+    "faqs": [
+      [
+        "A consulta garante minha reserva?",
+        "Não. Disponibilidade, tarifas e confirmação são combinadas diretamente com a hospedagem."
+      ],
+      [
+        "A hospedagem da foto fica em qual cidade?",
+        "As imagens são referências ilustrativas. A localização real será inserida na personalização."
+      ],
+      [
+        "Há pagamento online?",
+        "Não neste exemplo. Motor de reservas e pagamento conectado precisam de integração e orçamento específicos."
+      ]
+    ],
+    "price": 1500,
+    "tier": "Avançados"
+  },
+  {
+    "id": "automotivo",
+    "name": "Site para Oficina Automotiva",
+    "category": "Serviços",
+    "tag": "TÉCNICO & CONTEMPORÂNEO",
+    "theme": "automotive",
+    "brand": "sua oficina",
+    "label": "ATENÇÃO AO QUE MOVE VOCÊ",
+    "title": "CUIDADO PRECISO.<br><em>CAMINHO TRANQUILO.</em>",
+    "intro": "Organize o próximo cuidado com o seu veículo. Serviços explicados com clareza e uma conversa direta sobre o que ele precisa.",
+    "action": "Conheça os serviços",
+    "desc": "Checklist de serviços e ficha do veículo.",
+    "accent": "#68dcec",
+    "bg": "#101e28",
+    "ink": "#eef7fa",
+    "gallery": "Detalhes que merecem atenção.",
+    "gcopy": "Referências ilustrativas de mecânica e veículos. Não representam carros atendidos ou serviços executados.",
+    "labels": [
+      "Mecânica",
+      "Veículo",
+      "Detalhes"
+    ],
+    "alts": [
+      "Componentes e correias de motor de automóvel",
+      "Automóvel esportivo em ambiente interno",
+      "Automóvel visto pela traseira em uma estrada"
+    ],
+    "services": [
+      [
+        "Revisão preventiva",
+        "Apresente os itens avaliados e a importância de acompanhar a manutenção do veículo."
+      ],
+      [
+        "Diagnóstico",
+        "Um caminho para descrever sintomas e conversar sobre a avaliação técnica."
+      ],
+      [
+        "Cuidados específicos",
+        "Organize os serviços reais da oficina por sistema ou necessidade."
+      ]
+    ],
+    "interactive": "O que o seu veículo precisa?",
+    "helper": "Selecione os interesses e preencha a ficha. O site não fornece diagnóstico nem preço automático.",
+    "choices": [
+      [
+        "Revisão",
+        "Conte sobre a última manutenção e os cuidados que deseja avaliar."
+      ],
+      [
+        "Diagnóstico",
+        "Descreva o que percebeu no funcionamento, sem tentar concluir a causa."
+      ],
+      [
+        "Serviço específico",
+        "Informe o serviço de interesse e as informações úteis sobre o veículo."
+      ]
+    ],
+    "fields": [
+      [
+        "Modelo e ano do veículo",
+        "text",
+        "Ex.: hatch, ano 2020"
+      ],
+      [
+        "Quilometragem (opcional)",
+        "text",
+        "Uma estimativa atual"
+      ]
+    ],
+    "about": "Clareza antes de qualquer intervenção.",
+    "aboutcopy": "Um site de linguagem técnica e navegação objetiva. A proposta é apresentar os serviços, organizar as informações do veículo e facilitar a conversa com a oficina, sem diagnósticos fictícios.",
+    "process": [
+      [
+        "Relate",
+        "Conte o histórico e o que percebeu."
+      ],
+      [
+        "Avalie",
+        "A equipe define a análise necessária."
+      ],
+      [
+        "Autorize",
+        "Serviços e valores são alinhados antes da execução."
+      ]
+    ],
+    "faqs": [
+      [
+        "O formulário identifica o problema do veículo?",
+        "Não. Ele reúne informações para a oficina avaliar o caso presencialmente."
+      ],
+      [
+        "Consigo agendar a revisão?",
+        "Você pode consultar um período. A equipe confirma a disponibilidade do atendimento."
+      ],
+      [
+        "Os carros das imagens são de clientes?",
+        "Não. As imagens são ilustrativas e não indicam serviços realizados pela oficina."
+      ]
+    ],
+    "price": 1500,
+    "tier": "Avançados"
+  },
+  {
+    "id": "energia-solar",
+    "name": "Site para Energia Solar",
+    "category": "Serviços",
+    "tag": "TECNOLOGIA & CLAREZA",
+    "theme": "solar",
+    "brand": "sua energia solar",
+    "label": "UM NOVO OLHAR PARA A ENERGIA",
+    "title": "A luz de hoje.<br><em>O projeto de amanhã.</em>",
+    "intro": "Conheça as possibilidades da energia solar para o seu imóvel. Um primeiro contato claro para começar a análise do projeto.",
+    "action": "Explore as aplicações",
+    "desc": "Aplicações solares e briefing de viabilidade.",
+    "accent": "#f3bd48",
+    "bg": "#f6f9fc",
+    "ink": "#163342",
+    "gallery": "Energia em novas perspectivas.",
+    "gcopy": "Referências de sistemas e infraestrutura. Não representam instalações realizadas pela empresa.",
+    "labels": [
+      "Geração",
+      "Sistema",
+      "Infraestrutura"
+    ],
+    "alts": [
+      "Painéis solares sob céu azul",
+      "Vista aérea de um campo de painéis solares",
+      "Infraestrutura elétrica ao pôr do sol"
+    ],
+    "services": [
+      [
+        "Residencial",
+        "Organize as informações iniciais para analisar as necessidades de uma residência."
+      ],
+      [
+        "Comercial",
+        "Apresente a relação entre consumo, rotina de operação e possibilidades de projeto."
+      ],
+      [
+        "Rural",
+        "Um espaço para explorar as particularidades do imóvel e da atividade realizada."
+      ]
+    ],
+    "interactive": "Qual é o cenário do seu projeto?",
+    "helper": "Este briefing prepara uma análise. Não calcula economia, retorno financeiro ou dimensionamento técnico.",
+    "choices": [
+      [
+        "Residencial",
+        "Reúna sua conta de energia e conte sobre a cobertura e o uso do imóvel."
+      ],
+      [
+        "Comercial",
+        "Descreva a atividade, o período de funcionamento e o perfil de consumo."
+      ],
+      [
+        "Rural",
+        "Informe a atividade, a localização e os equipamentos envolvidos no consumo."
+      ]
+    ],
+    "fields": [
+      [
+        "Cidade do imóvel",
+        "text",
+        "Onde seria o projeto?"
+      ],
+      [
+        "Consumo mensal em kWh (opcional)",
+        "text",
+        "Consulte a conta de energia"
+      ]
+    ],
+    "about": "Um projeto começa com informação.",
+    "aboutcopy": "Uma abordagem visual limpa para explicar aplicações e organizar o primeiro contato. A viabilidade, o dimensionamento e as condições comerciais dependem de análise técnica e proposta específicas.",
+    "process": [
+      [
+        "Entender",
+        "Reúna o contexto do imóvel e o consumo."
+      ],
+      [
+        "Analisar",
+        "A equipe avalia viabilidade e requisitos."
+      ],
+      [
+        "Propor",
+        "Solução e escopo apresentados na proposta."
+      ]
+    ],
+    "faqs": [
+      [
+        "O site informa quanto vou economizar?",
+        "Não. Economia e retorno dependem de consumo, projeto, tarifas e análise técnica."
+      ],
+      [
+        "As instalações das imagens são da empresa?",
+        "Não. São referências ilustrativas para demonstrar a apresentação do site."
+      ],
+      [
+        "O briefing substitui uma visita técnica?",
+        "Não. Ele organiza as informações iniciais para a equipe definir os próximos passos."
+      ]
+    ],
+    "price": 1500,
+    "tier": "Avançados"
+  },
+  {
+    "id": "eventos",
+    "name": "Site para Eventos e Cerimonial",
+    "category": "Serviços",
+    "tag": "ELEGANTE & SENSORIAL",
+    "theme": "events",
+    "brand": "seu cerimonial",
+    "label": "CELEBRAÇÕES COM IDENTIDADE",
+    "title": "O seu momento.<br><em>Em cada detalhe.</em>",
+    "intro": "Ideias que ganham forma, encontros que ganham significado. Uma direção para celebrar com a sua identidade.",
+    "action": "Explore as inspirações",
+    "desc": "Moodboard interativo e briefing de evento.",
+    "accent": "#893e56",
+    "bg": "#f9f2ed",
+    "ink": "#452533",
+    "gallery": "Atmosferas para imaginar.",
+    "gcopy": "Composições de referência para o portfólio. Não são eventos realizados pela marca desta demonstração.",
+    "labels": [
+      "Celebração",
+      "Decoração",
+      "Encontro"
+    ],
+    "alts": [
+      "Mesa de evento com flores e louças",
+      "Mesa com arranjos florais e decoração delicada",
+      "Espaço de festa preparado para receber convidados"
+    ],
+    "services": [
+      [
+        "Planejamento",
+        "Uma visão organizada dos detalhes, prioridades e decisões da celebração."
+      ],
+      [
+        "Cerimonial",
+        "Apresente o acompanhamento e a coordenação que fazem parte do seu serviço."
+      ],
+      [
+        "Direção da experiência",
+        "Referências, atmosfera e identidade reunidas em uma proposta de evento."
+      ]
+    ],
+    "interactive": "Encontre a atmosfera do seu evento.",
+    "helper": "Escolha uma direção e monte seu briefing. Datas, fornecedores e valores são confirmados na proposta.",
+    "choices": [
+      [
+        "Natural",
+        "Materiais orgânicos, tons suaves e uma composição conectada ao ambiente."
+      ],
+      [
+        "Clássica",
+        "Detalhes elegantes, iluminação acolhedora e composição de mesa em destaque."
+      ],
+      [
+        "Contemporânea",
+        "Formas marcantes, uma paleta autoral e elementos visuais com personalidade."
+      ]
+    ],
+    "fields": [
+      [
+        "Tipo de evento",
+        "text",
+        "Ex.: casamento ou encontro corporativo"
+      ],
+      [
+        "Data desejada (opcional)",
+        "date",
+        ""
+      ],
+      [
+        "Convidados (estimativa)",
+        "number",
+        "Ex.: 80"
+      ]
+    ],
+    "about": "Uma celebração com a sua assinatura.",
+    "aboutcopy": "Uma experiência editorial pensada para transformar referências em conversa. O modelo dá espaço à atmosfera dos eventos e reúne as informações que ajudam a planejar os próximos passos.",
+    "process": [
+      [
+        "Imagine",
+        "Reúna as referências e o significado da ocasião."
+      ],
+      [
+        "Organize",
+        "Prioridades, convidados e local entram no planejamento."
+      ],
+      [
+        "Combine",
+        "Serviços e responsabilidades definidos na proposta."
+      ]
+    ],
+    "faqs": [
+      [
+        "O site confirma a data do meu evento?",
+        "Não. O formulário prepara uma consulta e a equipe confirma a disponibilidade."
+      ],
+      [
+        "Os eventos das fotos foram organizados pela marca?",
+        "Não. São imagens ilustrativas para mostrar possibilidades de composição."
+      ],
+      [
+        "O formulário contrata fornecedores?",
+        "Não. Fornecedores, responsabilidades e condições são combinados na proposta."
+      ]
+    ],
+    "price": 1500,
+    "tier": "Avançados"
+  }
+]
