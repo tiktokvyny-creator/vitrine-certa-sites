@@ -99,7 +99,7 @@
       ]
     ],
     "price": 1500,
-    "tier": "Avançados"
+    "tier": "Destaque"
   },
   {
     "id": "fotografia",
@@ -201,7 +201,7 @@
       ]
     ],
     "price": 1500,
-    "tier": "Avançados"
+    "tier": "Destaque"
   },
   {
     "id": "confeitaria",
@@ -308,7 +308,7 @@
       ]
     ],
     "price": 1500,
-    "tier": "Avançados"
+    "tier": "Destaque"
   },
   {
     "id": "petshop",
@@ -410,7 +410,7 @@
       ]
     ],
     "price": 1500,
-    "tier": "Avançados"
+    "tier": "Destaque"
   },
   {
     "id": "academia",
@@ -512,7 +512,7 @@
       ]
     ],
     "price": 1500,
-    "tier": "Avançados"
+    "tier": "Destaque"
   },
   {
     "id": "pousada",
@@ -619,7 +619,7 @@
       ]
     ],
     "price": 1500,
-    "tier": "Avançados"
+    "tier": "Destaque"
   },
   {
     "id": "automotivo",
@@ -721,7 +721,7 @@
       ]
     ],
     "price": 1500,
-    "tier": "Avançados"
+    "tier": "Destaque"
   },
   {
     "id": "energia-solar",
@@ -823,7 +823,7 @@
       ]
     ],
     "price": 1500,
-    "tier": "Avançados"
+    "tier": "Destaque"
   },
   {
     "id": "eventos",
@@ -930,6 +930,6 @@
       ]
     ],
     "price": 1500,
-    "tier": "Avançados"
+    "tier": "Destaque"
   }
 ]
