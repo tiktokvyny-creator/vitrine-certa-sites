@@ -1,0 +1,27 @@
+{
+  "type": "Imagens ilustrativas geradas por IA; não representam produtos à venda.",
+  "tool": "image_gen built-in",
+  "assets": [
+    {
+      "file": "campanha-v2.webp",
+      "prompt": "Use case: identity-preserve. Asset type: luxury independent Brazilian women's boutique website hero campaign. Edit target is supplied photo. Preserve the adult brunette woman's facial identity, exact brick-red square-neck fitted midi dress, straps, thigh slit, fabric and nude strappy sandals. Change camera composition, pose and setting to a high-end candid fashion editorial WIDE LANDSCAPE photograph, 2:1 ratio. A sunlit monumental cream travertine colonnade, strong real architectural shadows, warm mediterranean afternoon, model walking naturally on the RIGHT THIRD, fully visible head to shoes and plenty of clean shaded architectural NEGATIVE SPACE ON THE LEFT for white web typography. Look like a carefully art-directed real fashion campaign with tactile film grain, believable fabric creases, natural skin pores and understated jewelry. No plastic skin, no CGI, no beauty filter, no text, no letters, no logos, no collage. The woman is a fictional adult and garment is illustrative. Single exquisite full-bleed photograph.",
+      "reference": "vestido.webp — imagem ilustrativa preexistente"
+    },
+    {
+      "file": "vestido-detalhe-v2.webp",
+      "prompt": "Use case: identity-preserve. Edit target supplied adult woman wearing brick-red midi dress. Preserve SAME woman, EXACT square neckline, straight wide straps, seams, same red linen-like fabric and skin tone. Create a companion editorial product image, portrait 3:4, closer crop from head to upper thigh showing neckline and waist, natural relaxed candid pose looking slightly away. Same warm cream limestone architecture in softly blurred background. Beautiful real skin texture, real wrinkles in cloth, warm directional daylight, subtle analog grain. No logos/text, no garment alteration, no exaggerated retouching.",
+      "reference": "vestido.webp — imagem ilustrativa preexistente"
+    },
+    {
+      "file": "camisa-v2.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: independent Brazilian luxury women's boutique illustrative catalogue photography. Portrait 3:4 fashion editorial photograph, full body with generous room around adult 30-year-old Brazilian woman with wavy shoulder-length dark hair, wearing an oversized olive green long-sleeve linen button-down shirt, cuffs casually rolled, tucked loosely in natural cream straight trousers, dark tan simple sandals. Olive shirt is main garment and all button detail visible. Relaxed walking pose in a warm minimalist plaster courtyard with sunlit stone floor. Tactile natural linen, lifelike skin, slightly imperfect candid warmth, restrained expensive styling, warm subtle film grain. Camera true fashion photographic 50mm depth of field. No logos, words, text, price, watermarks or collage. Fictional adult model. Attractive premium editorial realistic aesthetic.",
+      "reference": null
+    },
+    {
+      "file": "saia-v2.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: independent Brazilian luxury women's boutique illustrative catalogue photography. Portrait 3:4, full body adult Black Brazilian woman around 30 years old with naturally curly short hair, wearing a flowing copper-brown satin midi skirt cut on the bias with a simple ivory fitted sleeveless top and refined brown flat sandals. Waist and skirt fully visible, skirt is the hero garment. Walking naturally with skirt slightly moving, candid confident expression. Sunlit cream sandstone architectural passageway with olive tree shadow, warm pale neutral background, strong composition and believable draped satin reflections. High-end authentic fashion editorial, subtle analog grain, real skin and natural body, no beauty-filter plastic, no CGI. No brands, logos, text, watermark, montage or collage. Fictional adult woman, illustrative product.",
+      "reference": null
+    }
+  ],
+  "optimization": "WebP; campanha 1600×800, imagens de produto 900×1200; conversão e redimensionamento com Sharp."
+}
