@@ -38,6 +38,12 @@
     $('#care-title').textContent = $('h3', card).textContent;
     $('#care-description').textContent = card.dataset.detail;
     $('#care-expectation').textContent = card.dataset.expectation;
+    const image = $('.care-photo img', card);
+    const detailImage = $('#care-image');
+    if (image && detailImage) {
+      detailImage.src = image.getAttribute('src');
+      detailImage.alt = image.alt;
+    }
     $('#dialog-interest').dataset.interest = card.dataset.service;
     dialog.showModal();
   }));
