@@ -1,0 +1,50 @@
+[
+  {
+    "asset": "modelos/marmoraria/assets/hero.webp",
+    "type": "AI-generated illustrative architectural concept",
+    "prompt": "Use case: photorealistic-natural. Asset: wide hero photograph for a high-end Brazilian stone fabrication website demo. Produce one stunning architectural editorial photograph, landscape 3:2. A monumental creamy ivory quartzite kitchen island with sculptural softened corners and continuous warm taupe natural veining, waterfall side, clearly expertly fabricated solid stone. The stone occupies the right two thirds with visible front and top, dark smoked oak handleless cabinets behind, a single sculptural pendant, soft golden sunlight from a side window, deeply atmospheric luxury residential architecture, tactile real stone detail, elevated restrained styling, 35mm lens, straight verticals. Left third dark muted architecture suitable behind white title, but no text. Warm charcoal, champagne stone. No people, logos, letters, watermarks, collage or UI. This is an illustrative concept, not a real client project.",
+    "tool": "image_gen built-in"
+  },
+  {
+    "asset": "modelos/marmoraria/assets/banheiro.webp",
+    "type": "AI-generated illustrative architectural concept",
+    "prompt": "Use case: photorealistic-natural. Asset: project photograph for an elegant stone fabrication portfolio. One landscape 3:2 architectural editorial photo of an intimate sophisticated bathroom: striking deep black granite floating vanity with two seamless stone basins, matte black stone backsplash subtle white veins, a large warm rounded mirror, brushed brass faucet, walnut panel and soft wall-wash lighting. Main subject is stone countertop craftsmanship and mitered edge, very legible workmanship, rich natural photographic textures, warm cinematic realistic shadows, high-end magazine style. No text, no people, no logo, no watermark.",
+    "tool": "image_gen built-in"
+  },
+  {
+    "asset": "modelos/marmoraria/assets/verde.webp",
+    "type": "AI-generated illustrative architectural concept",
+    "prompt": "Use case: photorealistic-natural. Asset: project photo for a stone fabrication website. One landscape 3:2 photo, spectacular forest-green natural quartzite kitchen island and matching fullheight backsplash, complex organic cream and black veining, pale oak cabinetry and large luminous window, one tasteful terracotta bowl, refined contemporary Brazilian apartment, architecture magazine photography, natural afternoon light, extremely beautiful genuine tactile stone with thick mitred waterfall edge. Clean geometric cabinetry, sophisticated restrained composition, green stone main subject. No people, no text, logos or watermark.",
+    "tool": "image_gen built-in"
+  },
+  {
+    "asset": "modelos/marmoraria/assets/travertino.webp",
+    "type": "AI-generated illustrative architectural concept",
+    "prompt": "Use case: photorealistic-natural. Asset: project photo for stone workshop portfolio. One landscape 3:2 professional architectural photograph of a sculptural warm travertine dining table with oval top and two robust monolithic legs, subtle naturally porous stone edge and beautiful linear veins, airy minimalist Brazilian dining room, three dark wooden chairs, sheer curtains and afternoon sunlight, a single dark vase with one branch. Rich sophisticated earthy photographic textures. The stone craftsmanship is the central visual story. Not generic living room stock; focus stone surface and curved fabrication details. No text, people, logos or watermark.",
+    "tool": "image_gen built-in"
+  },
+  {
+    "asset": "modelos/moveis-planejados/assets/hero.webp",
+    "type": "AI-generated illustrative architectural concept",
+    "prompt": "Use case: photorealistic-natural. Asset: wide hero photograph for premium custom furniture and cabinetry website. One stunning landscape 3:2 architectural editorial photo of a beautifully designed warm contemporary Brazilian kitchen with fully bespoke natural oak cabinets, integrated tall fluted oak pantry door and a precise wall of ivory matte handleless cabinetry, subtle slim recessed bronze handles, sophisticated shelves with warm hidden lighting and a quartz countertop, sculptural wood breakfast bar, one stool. Beautiful millwork and material transitions are hero subject. Generous daylight, warm olive accents, warm ivory and honey oak, serene lived-in editorial realism, no people, no text, logos, watermark, collage or website interface. High-end architect magazine, true photographic finish, clean geometry.",
+    "tool": "image_gen built-in"
+  },
+  {
+    "asset": "modelos/moveis-planejados/assets/closet.webp",
+    "type": "AI-generated illustrative architectural concept",
+    "prompt": "Use case: photorealistic-natural. Asset: custom-furniture portfolio image. One landscape 3:2 elegant architectural photo of bespoke walk-in closet, floor-to-ceiling warm walnut and oatmeal cabinetry, glass-front wardrobes with discreet warm vertical LED strips, neatly spaced neutral clothes, generous softly upholstered central seat and built-in drawers with slim bronze handles. Exquisite cabinetry detail, joinery and storage organization central, natural light, interior design magazine, refined quiet luxury without excess, realistic straight verticals. No people, text, logos or watermarks.",
+    "tool": "image_gen built-in"
+  },
+  {
+    "asset": "modelos/moveis-planejados/assets/office.webp",
+    "type": "AI-generated illustrative architectural concept",
+    "prompt": "Use case: photorealistic-natural. Asset: portfolio photo for custom cabinetry maker. One landscape 3:2 sophisticated architectural photograph of a compact bespoke home office in a Brazilian apartment: wall-to-wall light natural oak built-in desk, asymmetrical floating cabinets in muted sage green, matching oak open shelving, precise hidden cable management, laptop closed on desk, minimal books, one warm cream designer chair, afternoon sunlight and shadow through window, exceptional crafted millwork with believable joinery. Warm, inviting and functional, editorial photography. No people, text, logos, watermark.",
+    "tool": "image_gen built-in"
+  },
+  {
+    "asset": "modelos/moveis-planejados/assets/living.webp",
+    "type": "AI-generated illustrative architectural concept",
+    "prompt": "Use case: photorealistic-natural. Asset: custom-furniture portfolio photo. One landscape 3:2 stunning architectural editorial photograph of a Brazilian contemporary living room with a full wall of custom natural oak cabinetry, precisely aligned fluted wall panels, a slim large black television integrated into wall, a long floating low cabinet with continuous handleless drawer fronts, a sophisticated sage-green lacquered niche and warm lit display shelf. Cream sofa partially visible foreground, natural daylight, beautiful real wood grain, elevated design, furniture is main focus, clean straight verticals. No people, letters, logos or watermarks.",
+    "tool": "image_gen built-in"
+  }
+]
